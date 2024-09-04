@@ -1,4 +1,5 @@
 #Create an empty list
+print("Hello")
 empty_list = []
 print()
 
